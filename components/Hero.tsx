@@ -15,7 +15,7 @@ export default function Hero({}: Props) {
       "I'm a Frontend Developer!",
       "Guy Who Loves Sleeping!",
       "But Coding More!",
-      "Welcome!",
+      "<Welcome />",
     ],
     loop: true,
     delaySpeed: 2000,
