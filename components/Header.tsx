@@ -25,17 +25,17 @@ export default function Header({}: Props) {
       >
         {/* Social Icons */}
         <SocialIcon
-          url="https://youtube.com/sonnysangha"
+          url="https://vk.com/tryingtothink"
           fgColor="grey"
           bgColor="transparent"
         />
         <SocialIcon
-          url="https://youtube.com/sonnysangha"
+          url="https://github.com/gammbol"
           fgColor="grey"
           bgColor="transparent"
         />
         <SocialIcon
-          url="https://youtube.com/sonnysangha"
+          url="https://t.me/arch_btw"
           fgColor="grey"
           bgColor="transparent"
         />
