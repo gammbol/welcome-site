@@ -4,7 +4,7 @@ import ExperienceCard from "./ExperienceCard";
 
 type Props = {};
 
-function WorkExperience({}: Props) {
+function WorkExperiences({}: Props) {
   return (
     <motion.div
       initial={{ opacity: 0 }}
@@ -26,4 +26,4 @@ function WorkExperience({}: Props) {
   );
 }
 
-export default WorkExperience;
+export default WorkExperiences;
